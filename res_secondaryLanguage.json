@@ -1,0 +1,159 @@
+{
+    "basic_info": {
+      "description_header": "Hey !",
+      "description": "👋 Je suis Justine Tadros, une jeune femme joyeuse et ambitieuse, passionnée par les défis et les nouvelles technologies 💻. Avec un bachelor en informatique, j'ai déjà dirigé des projets web et iOS mobile. Maintenant, je me lance dans l'UX/UI design, car je suis rigoureuse dans mes recherches, curieuse de découvrir de nouveaux horizons et créative dans mes approches. Mon appétence pour les nouvelles technologies et l'innovation digitale me pousse à repousser sans cesse les limites. Je suis prête à relever tous les défis et à apporter une touche d'innovation à chaque projet.✨",
+      "section_name": {
+        "about": "Justine ? Qui est-ce?",
+        "projects": "Mes Projets dont je suis fière",
+        "skills": "Skills",
+        "experience": "Experiences"
+      }
+    },
+    "projects": [
+      {
+        "title": "TicketChainer",
+        "startDate": "2029",
+        "description": "Chef de projet lors du Hackathon TicketChaîner, j'ai eu l'occasion de mettre en pratique mes compétences en coordination et intégration de solutions. Dans ce rôle, j'ai dirigé une équipe dynamique à travers les défis du hackathon, en assurant une communication fluide et une collaboration efficace entre les membres. Nous avons travaillé main dans la main pour développer et intégrer des solutions innovantes, visant à optimiser l'expérience utilisateur et à répondre aux besoins spécifiques de TicketChaîner. Cette expérience m'a permis de développer ma capacité à gérer des projets dans des environnements rapides et changeants, tout en maintenant un haut niveau de qualité et de satisfaction client.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Microsoft Azure : Face ID",
+        "startDate": "2020",
+        "description": "Microsoft Azure : Cognitive Service, reconnaissance Faciale avec l'API Face fait référence à l'utilisation des services cognitifs de Microsoft Azure, en particulier l'API Face, pour la reconnaissance faciale. En simplifiant, il s'agit de l'utilisation de la technologie pour identifier et reconnaître les visages dans les images ou les vidéos. Cela peut être utilisé dans divers domaines tels que la sécurité, la gestion des identités, la personnalisation des expériences utilisateur, etc.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://azure.microsoft.com/fr-fr/products/ai-services/ai-vision/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Twitter en NodeJS",
+        "startDate": "2021",
+        "description": "Réalisation d'un Twitter en Node.js fait référence à la création d'une plateforme de médias sociaux similaire à Twitter en utilisant le langage de programmation Node.js. Cela implique le développement de fonctionnalités telles que la publication de tweets, le suivi d'autres utilisateurs, le liking de tweets et l'engagement dans des conversations",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "nodejs"
+          }
+        ]
+      },
+      {
+        "title": "Météo en Swift",
+        "startDate": "2022",
+        "description": "Création de ma propre application météo avec Swift décrit le processus de développement d'une application météo personnelle en utilisant le langage de programmation Swift. Cette application permet de fournir des prévisions météorologiques en temps réel, de consulter les conditions actuelles et de visualiser les prévisions à venir.",
+        "images": [
+          "images/portfolio/Meteo/p1.jpg",
+          "images/portfolio/Meteo/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "nodejs"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tradespotting",
+        "title": "Front-End Developer",
+        "years": "09.2021 - 09.2022",
+        "mainTech": [
+          "Angular"
+          
+        ],
+        "technologies": [
+          "Déboggage de plateformes avec utilisation de Docker et PHP",
+          "Design",
+          "JavaScript",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "ETNA, Ecole des Technologies Numériques Appliquées Paris - France",
+        "title": "Fullstack developor",
+        "years": "10.2020 - 09.2021",
+        "mainTech": [
+          "Angular"
+        ],
+        "technologies": [
+          "Debugger des plateformes utilisation Docker et PHP",
+          "Résoudre des problèmes techniques sur la plateforme universitaire",
+          "Gestion de ticketing de l'université",
+          "PHP",
+          "JavaScript",
+          "Postman"
+        ]
+      },
+      {
+        "company": "SHIFT89",
+        "title": "Developer web",
+        "years": "09.2019 - 10.2020",
+        "mainTech": [
+          "Angular"
+        ],
+        "technologies": [
+          "Reprise, évolution et création de solutions web et mobile existant ",
+          "Recherche de solutions et proposition de nouvelles idées",
+          "Création du composant ergonomique",
+          "Figma",
+          "AdobeXD"
+        ]
+      },
+      {
+        "company": "BestBuy Canada",
+        "title": "Temps partiel, Informatique",
+        "years": "01.2023 - 08.2023",
+        "mainTech": [
+          "Sales"
+        ],
+        "technologies": [
+          "Adaptation à la culture Canadienne",
+          "Cibler le besoin informatique du client",
+          "Formation HP, Apple et Google"
+        ]
+      }
+    ]
+  }
