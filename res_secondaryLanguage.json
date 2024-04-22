@@ -12,7 +12,7 @@
     "projects": [
       {
         "title": "TicketChainer",
-        "startDate": "2029",
+        "startDate": "2019",
         "description": "Chef de projet lors du Hackathon TicketChaîner, j'ai eu l'occasion de mettre en pratique mes compétences en coordination et intégration de solutions. Dans ce rôle, j'ai dirigé une équipe dynamique à travers les défis du hackathon, en assurant une communication fluide et une collaboration efficace entre les membres. Nous avons travaillé main dans la main pour développer et intégrer des solutions innovantes, visant à optimiser l'expérience utilisateur et à répondre aux besoins spécifiques de TicketChaîner. Cette expérience m'a permis de développer ma capacité à gérer des projets dans des environnements rapides et changeants, tout en maintenant un haut niveau de qualité et de satisfaction client.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
@@ -105,10 +105,11 @@
           
         ],
         "technologies": [
-          "Déboggage de plateformes avec utilisation de Docker et PHP",
+          "Debug de plateformes avec utilisation de Docker et PHP",
           "Design",
           "JavaScript",
-          "Angular Material"
+          "Angular",
+          "Laravel"
         ]
       },
       {
@@ -119,7 +120,8 @@
           "Angular"
         ],
         "technologies": [
-          "Debugger des plateformes utilisation Docker et PHP",
+          "Debugger plateformes",
+          "Utilisation Docker et PHP",
           "Résoudre des problèmes techniques sur la plateforme universitaire",
           "Gestion de ticketing de l'université",
           "PHP",
@@ -135,9 +137,9 @@
           "Angular"
         ],
         "technologies": [
-          "Reprise, évolution et création de solutions web et mobile existant ",
+          "Reprise, création de solutions web et mobile existant ",
           "Recherche de solutions et proposition de nouvelles idées",
-          "Création du composant ergonomique",
+          "Création de composant ergonomique",
           "Figma",
           "AdobeXD"
         ]
@@ -152,7 +154,7 @@
         "technologies": [
           "Adaptation à la culture Canadienne",
           "Cibler le besoin informatique du client",
-          "Formation HP, Apple et Google"
+          "Formations HP, Apple et Google"
         ]
       }
     ]
