@@ -1,24 +1,15 @@
-<img width="80%" align="center" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
-<img height="350px" align="right" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/mobile-demo.gif" alt="portfolio mobile demo gif"/>
-
-<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
 <h2>Justine's Portfolio </h2>
 
 <pre>
-⭐ Easy to adapt and deploy portfolio project covering most important 
-sections(about, exp, skills, projects), inspired with solutions found 
-at GitHub. Check live preview(link below).
+⭐ 
+Bienvenue sur mon GitHub ! Ici, vous trouverez un projet qui incarne ma passion pour la création et l'innovation dans le domaine de la technologie. Explorez ce repository pour découvrir en détail un projet sur lequel j'ai investi temps et énergie, mettant en œuvre mes compétences et ma créativité pour aboutir à un résultat significatif. Que vous soyez intéressé par la technologie sous-jacente, curieux de voir mon processus de développement ou simplement à la recherche d'inspiration, je vous invite à plonger dans ce projet et à en découvrir les détails. Merci de votre visite, et n'hésitez pas à me contacter pour toute question ou commentaire sur ce projet ! ⭐ 
 </pre>
-
-<strong>:crown: advantages</strong>
-
-<img src="https://img.shields.io/badge/-multilingual-blue" alt="multilingual"/> &nbsp; <img src="https://img.shields.io/badge/-mobile friendly-blue" alt="mobile friendly"/> &nbsp; <img src="https://img.shields.io/badge/-light/dark mode-blue" alt="light/dark mode"/> &nbsp; <img src="https://img.shields.io/badge/-json fetched data-blue" alt="json fetched data"/> &nbsp; <img src="https://img.shields.io/badge/-minimalistic-blue" alt="minimalistic"/> &nbsp; <img src="https://img.shields.io/badge/-expandable-blue" alt="expandable"/>
 
 <br/>
 
 <h3>:eye_speech_bubble: Live demo</h3>
 
-Check live demonstration <a href="https://dorota1997.github.io/react-frontend-dev-portfolio/"><strong>here</strong></a>
+<img width="100%" src="https://justinetdrs.github.io/my-portfolio/" alt="react frontend dev portfolio preview"/>
 
 <img width="100%" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
 
@@ -121,13 +112,3 @@ homepage property or json data won't load.
 - centered fullname/pos/theme toggler in Header section
 </pre>
 </details>
-
-<h3>:gear: Contribution</h3>
-
-If you have any suggestions on what to improve in <em>react-frontend-dev-portfolio</em> and would like to share them, feel free to leave an issue or fork project to implement your own ideas :slightly_smiling_face:
-
-<h3>:camera: Credits(images)</h3>
-
-Images used in portfolio template come from Pixabay, references:
-
-<a href="https://pixabay.com/photos/people-woman-girl-clothing-eye-2563491/">p1</a>, <a href="https://pixabay.com/photos/dog-puppy-sharpei-petit-animal-1865712/">p2</a>, <a href="https://pixabay.com/photos/night-camera-photographer-photo-1927265/">p3</a>, <a href="https://pixabay.com/photos/road-forest-season-autumn-fall-1072823/">p4</a>, <a href="https://pixabay.com/photos/neuschwanstein-castle-bavaria-701732/">p5</a>, <a href="https://pixabay.com/photos/hohenschwangau-alps-alpsee-bavaria-532864/">p6</a>
