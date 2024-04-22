@@ -9,9 +9,8 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez un projet qui incarne ma passion 
 
 <h3>:eye_speech_bubble: Live demo</h3>
 
-<img width="100%" src="https://justinetdrs.github.io/my-portfolio/" alt="react frontend dev portfolio preview"/>
+<img width="100%" src="https://justinetdrs.github.io/my-portfolio/" alt="demo"/>
 
-<img width="100%" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
 
 <h3>:books: Getting started</h3>
 
