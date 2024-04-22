@@ -1,0 +1,156 @@
+{
+    "basic_info": {
+      "description_header": "Hi !",
+      "description": "👋 I'm Justine Tadros, a cheerful and ambitious young woman who's passionate about challenges and new technologies 💻. With a bachelor's degree in computer science, I've already led web and iOS mobile projects. Now, I'm diving into UX/UI design because I'm diligent in my research, curious to explore new horizons, and creative in my approaches. My love for new technologies and digital innovation drives me to constantly push boundaries. I'm ready to tackle any challenge and bring a touch of innovation to every project. ✨",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Ticketchainer",
+        "startDate": "2019",
+        "description": "As project lead during the TicketChaîner Hackathon, I had the opportunity to showcase my skills in coordinating and integrating solutions. In this role, I guided a dynamic team through the challenges of the hackathon, ensuring smooth communication and effective collaboration among members. Together, we worked hand-in-hand to develop and integrate innovative solutions aimed at optimizing the user experience and meeting TicketChaîner's specific needs. This experience honed my ability to manage projects in fast-paced, evolving environments while maintaining a high level of quality and customer satisfaction.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Microsoft Azure : Face ID",
+        "startDate": "2020",
+        "description": "Microsoft Azure: Cognitive Service, Face Recognition with the Face API refers to using Microsoft Azure's cognitive services, specifically the Face API, for recognizing faces. Simply put, it's about using technology to identify and recognize faces in images or videos. This can be used in various areas like security, identity management, personalized user experiences, and more.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://azure.microsoft.com/fr-fr/products/ai-services/ai-vision/",
+        "technologies": [
+
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Twitter with NodeJS",
+        "startDate": "2021",
+        "description": "Building a Twitter in Node.js refers to creating a social media platform similar to Twitter using the Node.js programming language. It involves developing features like posting tweets, following other users, liking tweets, and engaging in conversations.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      },
+      {
+        "title": "Météo in Swift",
+        "startDate": "2022",
+        "description": "Building my own weather app with Swift describes the process of developing a personal weather application using the Swift programming language. This app provides real-time weather forecasts, current conditions, and future forecasts.",
+        "images": [
+          "images/portfolio/Meteo/p1.jpg",
+          "images/portfolio/Meteo/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "nodejs"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tradespotting",
+        "title": "Front-End Developer",
+        "years": "09.2021 - 09.2022",
+        "mainTech": [
+          "Angular"
+          
+        ],
+        "technologies": [
+          "Debugging platforms using Docker and PHP",
+          "Design",
+          "JavaScript",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "ETNA, Ecole des Technologies Numériques Appliquées Paris - France",
+        "title": "Fullstack developor",
+        "years": "10.2020 - 09.2021",
+        "mainTech": [
+          "Angular"
+        ],
+        "technologies": [
+          "Solving technical issues on the university platform",
+          "Experience in real-time communication and managing irregularities",
+          "Resolving technical issues on the university platform",
+          "PHP",
+          "JavaScript",
+          "Postman"
+        ]
+      },
+      {
+        "company": "SHIFT89",
+        "title": "Developer web",
+        "years": "09.2019 - 10.2020",
+        "mainTech": [
+          "Angular"
+        ],
+        "technologies": [
+          "Improving and updating existing web and mobile solutions",
+          "Helping bring new solutions",
+          "Designing user-friendly components",
+          "Figma",
+          "AdobeXD"
+        ]
+      },
+      {
+        "company": "BestBuy Canada",
+        "title": "Part-Time, Computer-science",
+        "years": "01.2023 - 08.2023",
+        "mainTech": [
+          "Sales"
+        ],
+        "technologies": [
+          "Adapting to Canadian culture",
+          "Targeting the customer's IT needs",
+          "HP, Apple and Google training"
+        ]
+      }
+    ]
+  }
