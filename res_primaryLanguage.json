@@ -92,7 +92,7 @@
         ]
       }
     ],
-    "experience": [
+    "experiences": [
       {
         "company": "Tradespotting",
         "title": "Front-End Developer",
@@ -117,7 +117,7 @@
         ],
         "technologies": [
           "Solving technical issues on the university platform",
-          "Experience in real-time communication and managing irregularities",
+          "Communication and managing irregularities web",
           "Resolving technical issues on the university platform",
           "PHP",
           "JavaScript",
