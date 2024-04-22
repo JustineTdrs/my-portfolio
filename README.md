@@ -1,15 +1,20 @@
-<h2>Justine's Portfolio </h2>
-
+<h2>Bienvenue sur le Portfolio de Justine Tadros </h2>
+<br>
+<h3>:eye_speech_bubble:</h3>
+<a href="https://justinetdrs.github.io/my-portfolio/"><strong>Clicker ici pour accéder directement au Portfolio ! </strong></a><br>
+ <br>
 <pre>
 ⭐ 
-Bienvenue sur mon GitHub ! Ici, vous trouverez un projet qui incarne ma passion pour la création et l'innovation dans le domaine de la technologie. Explorez ce repository pour découvrir en détail un projet sur lequel j'ai investi temps et énergie, mettant en œuvre mes compétences et ma créativité pour aboutir à un résultat significatif. Que vous soyez intéressé par la technologie sous-jacente, curieux de voir mon processus de développement ou simplement à la recherche d'inspiration, je vous invite à plonger dans ce projet et à en découvrir les détails. Merci de votre visite, et n'hésitez pas à me contacter pour toute question ou commentaire sur ce projet ! ⭐ 
+Bienvenue sur mon GitHub ! <br>
+  Ici, vous trouverez un projet qui incarne ma passion pour la création et l'innovation dans le domaine de la technologie.
+  Explorez ce repository pour découvrir en détail un projet sur lequel j'ai investi temps et énergie,
+  mettant en œuvre mes compétences et ma créativité pour aboutir à un résultat significatif.
+  Que vous soyez intéressé par la technologie sous-jacente, curieux de voir mon processus
+  de développement ou simplement à la recherche d'inspiration, je vous invite à plonger dans ce projet <br>  et à en découvrir les détails.  <br> <br>
+  Merci de votre visite, et n'hésitez pas à me contacter pour toute question ou commentaire sur ce projet ! ⭐ 
 </pre>
 
 <br/>
-
-<h3>:eye_speech_bubble: Live demo</h3>
-
-<img width="100%" src="https://justinetdrs.github.io/my-portfolio/" alt="demo"/>
 
 
 <h3>:books: Getting started</h3>
