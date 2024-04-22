@@ -6,7 +6,7 @@
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experiences"
+        "experience": "Experience"
       }
     },
     "projects": [
@@ -92,7 +92,7 @@
         ]
       }
     ],
-    "experiences": [
+    "experience": [
       {
         "company": "Tradespotting",
         "title": "Front-End Developer",
