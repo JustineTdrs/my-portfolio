@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi !",
-      "description": "👋 I'm Justine Tadros, a cheerful and ambitious young woman who's passionate about challenges and new technologies 💻. With a bachelor's degree in computer science, I've already led web and iOS mobile projects. Now, I'm diving into UX/UI design because I'm diligent in my research, curious to explore new horizons, and creative in my approaches. My love for new technologies and digital innovation drives me to constantly push boundaries. I'm ready to tackle any challenge and bring a touch of innovation to every project. ✨",
+      "description": "👋 I'm Justine Tadros, an experienced professional with over 5 years of experience in the coding industry! 💻. With a bachelor's degree in computer science, I have already led web and iOS mobile projects. Now, I'm diving into UX/UI design because I'm passionate about making an impact, and curious to explore new horizons. My love to discover new software and explore digital innovation drives me to constantly push boundaries. I'm ready to tackle any challenge and bring a touch of creativity to every project.✨",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -33,7 +33,7 @@
       {
         "title": "Microsoft Azure : Face ID",
         "startDate": "2020",
-        "description": "Microsoft Azure: Cognitive Service, Face Recognition with the Face API refers to using Microsoft Azure's cognitive services, specifically the Face API, for recognizing faces. Simply put, it's about using technology to identify and recognize faces in images or videos. This can be used in various areas like security, identity management, personalized user experiences, and more.",
+        "description": "I also used Microsoft Azure's cognitive services, specifically the Face API, for recognizing faces. Simply put, it's about using technology to identify and recognize faces in images or videos. This can be used in various areas like security, identity management, personalized user experiences, and more.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -50,7 +50,7 @@
       {
         "title": "Twitter with NodeJS",
         "startDate": "2021",
-        "description": "Building a Twitter in Node.js refers to creating a social media platform similar to Twitter using the Node.js programming language. It involves developing features like posting tweets, following other users, liking tweets, and engaging in conversations.",
+        "description": "I was able to create a social media platform similar to Twitter using the Node.js programming language. It involves developing features like posting tweets, following other users, liking tweets, and engaging in conversations.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -72,9 +72,9 @@
         ]
       },
       {
-        "title": "Météo in Swift",
+        "title": "Weather app",
         "startDate": "2022",
-        "description": "Building my own weather app with Swift describes the process of developing a personal weather application using the Swift programming language. This app provides real-time weather forecasts, current conditions, and future forecasts.",
+        "description": "Using Swift, I built my own weather app providing real-time weather forecasts, current conditions, and future forecasts.",
         "images": [
           "images/portfolio/Meteo/p1.jpg",
           "images/portfolio/Meteo/p2.jpg"
